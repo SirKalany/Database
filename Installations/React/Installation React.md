@@ -1,4 +1,4 @@
-# ✅ Créer un nouveau projet React
+# Créer un nouveau projet React
 
 Ce guide résume comment installer **Next.js** pour un **nouveau projet** ou pour l'intégrer dans un **projet existant** (migration).
 
@@ -10,13 +10,13 @@ npx create-react-app my-app
 cd my-app
 ```
 
-### 🛠️ Pour TypeScript :
+### Pour TypeScript :
 
 ```bash
 npx create-react-app my-app --template typescript
 ```
 
-## 🚏 Ajouter React Router
+## Ajouter React Router
 
 ```bash
 npm install react-router-dom
@@ -53,7 +53,7 @@ export default App;
 
 Créez les fichiers correspondants dans src/pages/ (par exemple Home.js, About.js).
 
-## 🧠 Ajouter Redux Toolkit
+## Ajouter Redux Toolkit
 
 ```bash
 npm install @reduxjs/toolkit react-redux
